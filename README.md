@@ -2,7 +2,7 @@
 
 This is the code for the paper:
 
-**[Hypergraph with Attention on Reviews for Explainable Recommendation](https://www.ecir2024.org/accepted-paper/)**
+**[Hypergraph with Attention on Reviews for Explainable Recommendation](https://doi.org/10.1007/978-3-031-56027-9_14)**
 <br>
 [Theis E. Jendal](https://vbn.aau.dk/da/persons/141501), [Trung-Hoang Le](http://lthoang.com/), 
 [Hady W. Lauw](http://www.hadylauw.com/), [Matteo Lissandrini](https://people.cs.aau.dk/~matteo/),
