@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 
 HypAR uses https://github.com/evison/Sentires to preprocess the data. 
-The processed data can be downloaded from: https://drive.google.com/drive/folders/1DZAUJ4aO5O4SLxCFGS3MYBQhn9DlZ7qE.
+The processed data can be downloaded from: [https://drive.google.com/drive/folders/1DZAUJ4aO5O4SLxCFGS3MYBQhn9DlZ7qE](https://github.com/PreferredAI/seer.
 
 After downloading file, simply run
     
